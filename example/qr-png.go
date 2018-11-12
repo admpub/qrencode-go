@@ -5,7 +5,7 @@ import (
 	"image/png"
 	"os"
 
-	"github.com/qpliu/qrencode-go/qrencode"
+	"github.com/admpub/qrencode-go/qrencode"
 )
 
 func main() {
